@@ -9,6 +9,7 @@ Dashboard de una página con React (frontend) y FastAPI (backend).
 3. **Incluir dependencias**: En la aplicación React (carpeta frontend) debe incluirse la carpeta `node_modules`
 
 ## Estructura del Proyecto
+```bash
 proyecto/
 ├── backend/
 │   └── main.py
@@ -16,8 +17,11 @@ proyecto/
     ├── src/
     ├── node_modules/
     └── package.json
+```
+
 
 ## Instalación
+Nota: En la carpeta de frontent falta el node_modules
 
 **Frontend - Instalar dependencias:**
 ```bash
