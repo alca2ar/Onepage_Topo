@@ -1,9 +1,0 @@
-variable,current_value,target_value,absolute_change,relative_change,improvement_direction,priority,specific_action,expected_impact
-Gap_Rendimiento,0.009071598050251697,-0.05776238286402683,-0.06683398091427853,736.7387812384851,reducir,Alta,Análisis técnico del vehículo y optimización operativa,Medio
-Cantidad Mercancía,17330.219046295988,11490.51502507271,-5839.704021223279,33.696654414021424,reducir,Alta,Análisis específico requerido para optimizar Cantidad Mercancía,Medio
-CO2_por_KM,0.6753588057772114,0.8769120301945822,0.20155322441737078,29.84387301879048,aumentar,Alta,Adoptar técnicas de eco-conducción y revisar combustible utilizado,Alto
-Recorrido,322.46908957038545,274.9316857215322,-47.53740384885327,14.741693199861647,reducir,Media,Análisis específico requerido para optimizar Recorrido,Bajo
-Experiencia_Conductor,5.0,4.555555555555555,-0.44444444444444464,8.888888888888893,reducir,Baja,Programa de mentoría y capacitación continua,Bajo
-Consumo_por_KM,0.32397028909590964,0.35161585576196647,0.02764556666605683,8.533364816633698,aumentar,Baja,Optimizar rutas y realizar mantenimiento preventivo vehicular,Bajo
-Rendimiento Real,3.1350429106718227,2.907618540430226,-0.22742437024159656,7.2542665833196125,reducir,Baja,Análisis técnico del vehículo y optimización operativa,Bajo
-Hora_Num,11.384615384615385,12.11111111111111,0.7264957264957257,6.381381381381374,aumentar,Baja,Análisis específico requerido para optimizar Hora_Num,Bajo
